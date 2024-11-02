@@ -128,7 +128,7 @@ function App() {
               <li><a href="#youtube" className="text-decoration-none"><img src={ytIcon} alt="YouTube" /></a></li>
               <li><a href="#icon" className="text-decoration-none"><img src={icIcon} alt="Icon" /></a></li>
             </ul>
-            <div>2024 GlobalTalks. Project for GlobalTalks</div>
+            <div>2024 GlobalTalks. Project made by Shamil Rahman PK</div>
           </div>
         </Container>
       </footer>
