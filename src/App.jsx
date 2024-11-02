@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import './App.css';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
@@ -14,7 +13,6 @@ import ytIcon from './assets/yticon.png';
 import icIcon from './assets/icongit.png';
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <div id="main">
